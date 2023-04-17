@@ -1,0 +1,4 @@
+name: SkyBlockCraftMc
+version: '${project.version}'
+main: de.suchterking.skyblockcraftmc.SkyBlockCraftMc
+api-version: 1.19
