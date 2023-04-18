@@ -1,4 +1,4 @@
-package de.suchterking.skyblockcraftmc.utils;
+package de.suchterking.KingApis.utils;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;

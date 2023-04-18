@@ -1,7 +1,7 @@
-package de.suchterking.skyblockcraftmc.command;
+package de.suchterking.KingApis.command;
 
-import de.suchterking.skyblockcraftmc.utils.GuiBuilder;
-import de.suchterking.skyblockcraftmc.utils.ItemBuilder;
+import de.suchterking.KingApis.utils.GuiBuilder;
+import de.suchterking.KingApis.utils.ItemBuilder;
 import org.bukkit.Material;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
