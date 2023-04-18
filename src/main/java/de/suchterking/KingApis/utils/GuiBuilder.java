@@ -10,11 +10,9 @@ import java.util.List;
 public class GuiBuilder {
     private Inventory inv;
     private String titlem;
-    public static List<String> guiList;
     public GuiBuilder (int size, String title) {
         inv = Bukkit.createInventory(null, size, title);
         titlem = title;
-        guiList.add(title);
     }
 
     public GuiBuilder setItem(int slot, ItemStack item) {

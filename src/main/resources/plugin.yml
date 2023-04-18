@@ -1,6 +1,6 @@
-name: SkyBlockCraftMc
+name: KingApi
 version: '${project.version}'
-main: de.suchterking.skyblockcraftmc.SkyBlockCraftMc
+main: de.suchterking.KingApis.KingApis
 api-version: 1.19
 commands:
   gui:
